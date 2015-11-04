@@ -1,0 +1,32 @@
+.header{
+   height:auto;
+   width: 350;
+width: 350;
+   }
+.all{
+   height:auto;
+   width: 350;
+   
+   margin-left:auto;
+   margin-right:auto;}  
+
+.contener{
+   height:auto;
+   width: 350;
+
+   top: 80px;
+   margin-left:auto;
+   margin-right:auto;}
+
+.button{
+   position: absolute;
+   top:160px;
+   margin-left:auto;
+   margin-right:auto;}
+
+.table{
+   position: relative;
+   top: 80px;
+   width:1000;
+   margin-left:auto;
+   margin-right:auto;}
